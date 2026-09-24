@@ -83,14 +83,17 @@ Mi portfolio reúne mi perfil, proyectos, conocimientos, GitHub y CV actualizado
 
 ---
 
-## 📊 GitHub
+## 📂 GitHub y repositorios
 
-<div align="center">
+En GitHub documento y publico mis proyectos para mostrar el proceso de desarrollo, las tecnologías que utilizo y las mejoras que voy incorporando.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=angeljoaquinbogado&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeljoaquinbogado&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+| Proyecto | En qué estoy trabajando | Repositorio |
+|---|---|---|
+| ⚡ **FER ELECTRO** | E-commerce, Supabase, PostgreSQL, APIs, Mercado Pago y despliegue | [Ver código](https://github.com/angeljoaquinbogado/fer-electro) |
+| 🎣 **DORADO Artículos de Pesca** | Catálogo, buscador, carrito y diseño responsive | [Ver código](https://github.com/angeljoaquinbogado/Dorado-Art-Pesca) |
+| 🌐 **Portfolio personal** | Presentación profesional, proyectos y CV | [Ver código](https://github.com/angeljoaquinbogado/portfolio) |
 
-</div>
+> 💡 Mantengo mis repositorios como parte de mi aprendizaje práctico con **Git y GitHub**, registrando cambios, corrigiendo errores y mejorando funcionalidades.
 
 ---
 
