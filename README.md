@@ -1,130 +1,129 @@
 <div align="center">
 
-# 👋 Hola, soy Angel Joaquin Bogado
+# Ángel Joaquín Bogado
 
-### Estudiante de Licenciatura en Sistemas | Trainee IT | Desarrollo Web
+### Estudiante de Licenciatura en Sistemas · Desarrollo Web · E-commerce
 
-📍 Buenos Aires, Argentina · 🎓 UNGS · 💻 Buscando mi primera oportunidad IT
+Buenos Aires, Argentina · UNGS · Buscando mi primera oportunidad IT
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-angelbogado.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angeljoaquinbogado)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeljoaquinbogado@gmail.com)
-
-</div>
-
----
-
-## 👨‍💻 Sobre mí
-
-Soy estudiante de **Licenciatura en Sistemas en la Universidad Nacional de General Sarmiento (UNGS)** y estoy construyendo experiencia práctica mediante proyectos personales.
-
-Actualmente trabajo en proyectos de **desarrollo web y e-commerce**, donde practico integración de funciones, bases de datos, APIs, control de versiones, pruebas y despliegue.
-
-Uso herramientas de **IA como ChatGPT y Gemini** como apoyo para comprender, generar y adaptar código, investigar errores y documentar soluciones; después reviso, pruebo e integro los cambios en mis proyectos.
-
-- 🎯 Busco mi **primera oportunidad IT** en posiciones trainee/junior.
-- 🌱 Actualmente sigo aprendiendo **JavaScript, SQL, PostgreSQL y Git/GitHub**.
-- 🔐 También estoy realizando un **curso de Ciberseguridad de Fundación YPF**.
-- 🧩 Me interesa seguir creciendo en **desarrollo web, soporte IT y tecnología**.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,postgres,supabase,vercel)](https://skillicons.dev)
-
-<br>
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Básico-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-Integración_inicial-009688?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-angelbogado.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeljoaquinbogado@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angeljoaquinbogado)
 
 </div>
 
 ---
 
-## 🚀 Proyectos destacados
+## Sobre mí
+
+Soy estudiante de **Licenciatura en Sistemas en la Universidad Nacional de General Sarmiento (UNGS)** y desarrollo proyectos web para ganar experiencia práctica construyendo soluciones completas.
+
+Mi foco actual está en **JavaScript, bases de datos, APIs, e-commerce y despliegue web**. En mis proyectos trabajo con frontend responsive, funciones serverless, Supabase/PostgreSQL, paneles administrativos, validaciones, seguridad y control de versiones.
+
+Estoy buscando mi **primera oportunidad IT trainee/junior**, donde pueda seguir aprendiendo y aportar experiencia práctica construida en proyectos reales.
+
+---
+
+## Proyectos destacados
+
+### 🎣 Dorado Artículos de Pesca
+
+E-commerce desarrollado para un comercio real de artículos de pesca.
+
+**Qué incluye**
+- catálogo dinámico, búsqueda y filtros;
+- ficha de producto con galería;
+- carrito y checkout responsive;
+- panel administrativo para productos, stock, imágenes y pedidos;
+- seguimiento privado de pedidos;
+- backend serverless en Vercel;
+- Supabase/PostgreSQL con RLS;
+- integración de Mercado Pago preparada para producción;
+- documentación técnica y controles automáticos con GitHub Actions.
+
+**Stack:** HTML · CSS · JavaScript · Node.js · Supabase · PostgreSQL · Vercel
+
+[Ver sitio](https://dorado-art-pesca.vercel.app) · [Ver repositorio](https://github.com/angeljoaquinbogado/Dorado-Art-Pesca)
+
+---
 
 ### ⚡ FER ELECTRO
 
-E-commerce web desarrollado como proyecto personal.
+E-commerce completo con catálogo, compra, pagos, gestión operativa y panel Admin.
 
-- Catálogo de productos, carrito y checkout.
-- Panel administrativo y seguimiento de pedidos.
-- Gestión de stock y estados de compra.
-- Integración con **Supabase, PostgreSQL, APIs, Mercado Pago y Vercel**.
-- Pruebas funcionales y corrección de errores de flujo e interfaz.
+**Qué incluye**
+- catálogo dinámico y carrito;
+- checkout con validación server-side;
+- Mercado Pago y webhook de verificación;
+- descuento atómico de stock;
+- seguimiento privado de pedidos;
+- panel Admin con filtros, stock y exportación CSV;
+- confirmaciones por email;
+- Supabase/PostgreSQL con RLS;
+- protección anti-spam y manejo seguro de secretos.
 
-**🔗 [Ver sitio](https://fer-electro.vercel.app/)** · **💻 [Repositorio](https://github.com/angeljoaquinbogado/fer-electro)**
+**Stack:** HTML · CSS · JavaScript · Node.js · Supabase · PostgreSQL · Mercado Pago · Vercel
 
----
-
-### 🎣 DORADO Artículos de Pesca
-
-Proyecto personal de tienda web orientada a artículos de pesca.
-
-- Catálogo, categorías y buscador.
-- Carrito de compras.
-- Diseño responsive para celular y escritorio.
-- Revisión de interfaz, navegación y funcionamiento.
-
-**💻 [Repositorio](https://github.com/angeljoaquinbogado/Dorado-Art-Pesca)**
+[Ver sitio](https://fer-electro.vercel.app/) · [Ver repositorio](https://github.com/angeljoaquinbogado/fer-electro)
 
 ---
 
 ### 🌐 Portfolio personal
 
-Mi portfolio reúne mi perfil, proyectos, conocimientos, GitHub y CV actualizado.
+Sitio personal con presentación, proyectos, conocimientos y CV.
 
-**🔗 [Ver portfolio](https://portfolio-angelbogado.vercel.app/)** · **💻 [Repositorio](https://github.com/angeljoaquinbogado/portfolio)**
-
----
-
-## 📂 GitHub y repositorios
-
-En GitHub documento y publico mis proyectos para mostrar el proceso de desarrollo, las tecnologías que utilizo y las mejoras que voy incorporando.
-
-| Proyecto | En qué estoy trabajando | Repositorio |
-|---|---|---|
-| ⚡ **FER ELECTRO** | E-commerce, Supabase, PostgreSQL, APIs, Mercado Pago y despliegue | [Ver código](https://github.com/angeljoaquinbogado/fer-electro) |
-| 🎣 **DORADO Artículos de Pesca** | Catálogo, buscador, carrito y diseño responsive | [Ver código](https://github.com/angeljoaquinbogado/Dorado-Art-Pesca) |
-| 🌐 **Portfolio personal** | Presentación profesional, proyectos y CV | [Ver código](https://github.com/angeljoaquinbogado/portfolio) |
-
-> 💡 Mantengo mis repositorios como parte de mi aprendizaje práctico con **Git y GitHub**, registrando cambios, corrigiendo errores y mejorando funcionalidades.
+[Ver portfolio](https://portfolio-angelbogado.vercel.app/) · [Ver repositorio](https://github.com/angeljoaquinbogado/portfolio)
 
 ---
 
-## 🎯 Actualmente
-
-```text
-🎓 Licenciatura en Sistemas — UNGS
-💻 Desarrollo web y e-commerce
-📚 JavaScript · SQL · PostgreSQL · Git/GitHub
-🔐 Ciberseguridad — Fundación YPF (en curso)
-🔎 Buscando mi primera oportunidad IT
-```
-
----
-
-## 📫 Contacto
+## Tecnologías
 
 <div align="center">
 
-**Angel Joaquin Bogado**
-
-📧 [angeljoaquinbogado@gmail.com](mailto:angeljoaquinbogado@gmail.com)  
-🌐 [portfolio-angelbogado.vercel.app](https://portfolio-angelbogado.vercel.app/)  
-💻 [github.com/angeljoaquinbogado](https://github.com/angeljoaquinbogado)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,postgres,supabase,vercel)](https://skillicons.dev)
 
 </div>
 
+| Área | Herramientas |
+|---|---|
+| Frontend | HTML5, CSS3, JavaScript |
+| Backend | Node.js, Vercel Serverless Functions, APIs |
+| Datos | PostgreSQL, Supabase |
+| Integraciones | Mercado Pago, email transaccional |
+| Herramientas | Git, GitHub, VS Code, Vercel |
+| Prácticas | Responsive design, RLS, validación server-side, documentación, QA |
+
+---
+
+## Lo que estoy aprendiendo
+
+- JavaScript y organización de código.
+- SQL y PostgreSQL.
+- Diseño y consumo de APIs.
+- Git y GitHub con flujo de ramas, commits y pull requests.
+- Seguridad web y buenas prácticas.
+- **Ciberseguridad — Fundación YPF (en curso).**
+
+---
+
+## Cómo trabajo
+
+Intento que cada proyecto no sea solo una interfaz visual. También documento decisiones, pruebo flujos completos, separo secretos del frontend, valido datos en servidor y mantengo el historial de cambios en GitHub.
+
+En Dorado, por ejemplo, incorporé documentación de arquitectura, seguridad, base de datos, checklist de preproducción y un **Quality Check automático con GitHub Actions**.
+
+---
+
+## Contacto
+
+- **Email:** [angeljoaquinbogado@gmail.com](mailto:angeljoaquinbogado@gmail.com)
+- **Portfolio:** [portfolio-angelbogado.vercel.app](https://portfolio-angelbogado.vercel.app/)
+- **GitHub:** [github.com/angeljoaquinbogado](https://github.com/angeljoaquinbogado)
+
 ---
 
 <div align="center">
 
-### Gracias por visitar mi perfil 👨‍💻
+**Disponible para oportunidades trainee / junior en IT y desarrollo web.**
 
 </div>
